@@ -1,0 +1,2 @@
+# Genius
+learn Mongodb
